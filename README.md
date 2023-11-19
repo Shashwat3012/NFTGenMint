@@ -1,4 +1,15 @@
-# AI NFT Generator
+# NFT GenMint
+
+## An AI Powered NFT Generating and Minting Website
+
+## Introduction
+
+This is a simple web application that connects to your metamask wallet and generates a nft based on the prompt given using stable diffusion ai.
+
+## YouTube Video of Working
+
+[<img src="https://img.youtube.com/vi/fzmCRm3ghd0/hqdefault.jpg" width="600" height="300"
+/>](https://youtu.be/fzmCRm3ghd0)
 
 ## Technology Stack & Tools
 
@@ -10,10 +21,10 @@
 - [NFT.Storage](https://nft.storage/) (Connection to IPFS)
 - [Hugging Face](https://huggingface.co/) (AI Models)
 
-## Requirements For Initial Setup
+## Prerequisites
 - Install [NodeJS](https://nodejs.org/en/)
 
-## Setting Up
+## Installation
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
@@ -41,3 +52,11 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+## Found a bug? resolve it
+
+If you encounter a bug or have an improvement in mind, please follow these steps:
+
+- Check the [GitHub Issues](https://github.com/Shashwat3012/NFTGenMint/issues) to see if the issue has already been reported.
+- If not, open a new issue, describing the problem or your suggested enhancement.
+- If you'd like to contribute, fork the repository, make the necessary changes, and submit a pull request.
